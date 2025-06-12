@@ -29,7 +29,8 @@
   ],
   "dependencies": {
     "http-proxy": "1.18.1",
-    "proxy-from-env": "0.0.1"
+    "proxy-from-env": "0.0.1",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
